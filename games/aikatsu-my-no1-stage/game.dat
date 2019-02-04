@@ -1,0 +1,9 @@
+title = "Aikatsu! My No.1 Stage!!"
+description = "Aikatsu! My No.1 Stage!! is the fourth Aikatsu! game. It was developed by h.a.n.d. and published by Bandai Namco Entertainment"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000169D00"
+region = "jpn"
+release_date = "2015-11-26"
